@@ -1,5 +1,5 @@
 # Challenge N.4: Timed-Quiz
-<h1> <center>❗❗ UNFINISHED PROJECT ❗❗ </center> </h1> 
+<center> <h1> ❗❗ UNFINISHED PROJECT ❗❗ </h1> </center> </h1> 
 
 <h2> Criteria </h3> 
 <p> ⬜ Timer starts when 'start' button is clicked </p>
